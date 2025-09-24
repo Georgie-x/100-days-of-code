@@ -1,16 +1,20 @@
 body {
 	background-color: black;
 	color: white;
-	max-width: 720px;
+	max-width: 640px;
 	margin: auto;
 	font-size: 18px;
-	font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+	font-family: "Akatab", Calibri, "Trebuchet MS", sans-serif;
 }
 
 a {
 	color: rgb(23, 189, 189);
 }
 
-h1{
-    text-align: center;
+h1 {
+	text-align: center;
+}
+
+.content {
+	margin: 10px;
 }
