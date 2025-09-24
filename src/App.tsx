@@ -20,9 +20,9 @@ function App() {
 				. It was a good wizard and everything easier than I imagined, so I hope it works &#128522;
 				Also adding a bit of CSS for a black and white theme.
 			</p>
-			<h2>Day 3</h2>
+			<h2>Day 2</h2>
 			<p>
-				I had a few troubles getting the GitHub Actions to work (wrong paths and I presumed it would
+				I had a few troubles getting the GitHub Actions to work (adapting for vite, wrong paths and I presumed it would
 				sort out branches automatically) but it is now working so I plan to update some of my other
 				websites with it.
 			</p>
