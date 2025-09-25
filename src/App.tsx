@@ -26,6 +26,10 @@ function App() {
 				sort out branches automatically) but it is now working so I plan to update some of my other
 				websites with it.
 			</p>
+			<h2>Day 3</h2>
+			<p>
+				Had a few more troubles with a broken webhook but now have two repos using GitHub Actions successfully. I want to try a project in js where I use tools I don't usually, also a simpler version in a couple of new languages - I'm thinking a quiz, which I can make easier or harder depending on the situation. Doing initial plans in Excalidraw.
+			</p>
 		</div>
 	)
 }
