@@ -30,6 +30,10 @@ function App() {
 			<p>
 				Had a few more troubles with a broken webhook but now have two repos using GitHub Actions successfully. I want to try a project in js where I use tools I don't usually, also a simpler version in a couple of new languages - I'm thinking a quiz, which I can make easier or harder depending on the situation. Doing initial plans in Excalidraw.
 			</p>
+				<h2>Day 4</h2>
+			<p>
+				Had a pair coding session with Kieron about Flagit. We want to make a scoreboard and spent a long time watching tutorials on Firebase. We have decided to skip authentication for now as it's only a small quiz but still use Firebase to hold the scores. Kieron was able to test autodeploy of FlagIt and it was successful.
+			</p>
 		</div>
 	)
 }
