@@ -34,6 +34,11 @@ function App() {
 			<p>
 				Had a pair coding session with Kieron about Flagit. We want to make a scoreboard and spent a long time watching tutorials on Firebase. We have decided to skip authentication for now as it's only a small quiz but still use Firebase to hold the scores. Kieron was able to test autodeploy of FlagIt and it was successful.
 			</p>
+			<h2>Day 5</h2>
+			<p>
+				Learning Rust with this guide <a href="https://doc.rust-lang.org/" target="blank">rust-lang.org/book </a> I like it so far.
+			</p>
+
 		</div>
 	)
 }
