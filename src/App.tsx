@@ -38,7 +38,10 @@ function App() {
 			<p>
 				Learning Rust with this guide <a href="https://doc.rust-lang.org/" target="blank">rust-lang.org/book </a> I like it so far.
 			</p>
-
+	<h2>Day 6</h2>
+			<p>
+				More Rust, hitting the trickier bits.
+			</p>
 		</div>
 	)
 }
