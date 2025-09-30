@@ -58,6 +58,12 @@ function App() {
 				</a>{" "}
 				for a bit of a different perspective.
 			</p>
+			<h2>Day 8</h2>
+			<p>
+				More Rust, found great exercises from{" "}
+				<a href='https://github.com/rust-lang/rustlings'>Rustlings</a> which is exactly what I was
+				after.
+			</p>
 		</div>
 	)
 }
