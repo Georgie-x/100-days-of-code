@@ -64,6 +64,10 @@ function App() {
 				<a href='https://github.com/rust-lang/rustlings'>Rustlings</a> which is exactly what I was
 				after.
 			</p>
+			<h2>Day 9</h2>
+			<p>
+				More Rustlings puzzles on enums, structs, vectors and move.
+			</p>
 		</div>
 	)
 }
