@@ -68,6 +68,10 @@ function App() {
 			<p>
 				More Rustlings puzzles on enums, structs, vectors and move.
 			</p>
+				<h2>Day 10</h2>
+			<p>
+				More Rustlings puzzles on enums and strings. The questions are sometimes a bit vague and I feel more muddled than I was. I think tomorrow I will solidify my definitions by creating a Rust cheatsheet.
+			</p>
 		</div>
 	)
 }
