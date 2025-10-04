@@ -65,12 +65,18 @@ function App() {
 				after.
 			</p>
 			<h2>Day 9</h2>
+			<p>More Rustlings puzzles on enums, structs, vectors and move.</p>
+			<h2>Day 10</h2>
 			<p>
-				More Rustlings puzzles on enums, structs, vectors and move.
+				More Rustlings puzzles on enums and strings. The questions are sometimes a bit vague and I
+				feel more muddled than I was. I think tomorrow I will solidify my definitions by creating a
+				Rust cheatsheet.
 			</p>
-				<h2>Day 10</h2>
+			<h2>Day 12</h2>
 			<p>
-				More Rustlings puzzles on enums and strings. The questions are sometimes a bit vague and I feel more muddled than I was. I think tomorrow I will solidify my definitions by creating a Rust cheatsheet.
+				I missed yesterday due to minecraft &#129402; Today I'm making a spreadsheet of data types,
+				it seems like they are infinite but slowly working through them is good. I reckon I know my
+				&str vs String at least &#128527;
 			</p>
 		</div>
 	)
