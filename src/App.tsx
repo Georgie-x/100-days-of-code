@@ -78,6 +78,10 @@ function App() {
 				it seems like they are infinite but slowly working through them is good. I reckon I know my
 				&str vs String at least &#128527;
 			</p>
+				<h2>Day 13</h2>
+			<p>
+				More poring over Rust basics, knowing the stack and the heap which wasn't so important for JS. The book recommended a good exercise of programming lyrics to The Twelve Days of Christmas so I will try this next week.
+			</p>
 		</div>
 	)
 }
