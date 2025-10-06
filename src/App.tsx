@@ -82,6 +82,10 @@ function App() {
 			<p>
 				More poring over Rust basics, knowing the stack and the heap which wasn't so important for JS. The book recommended a good exercise of programming lyrics to The Twelve Days of Christmas so I will try this next week.
 			</p>
+					<h2>Day 14</h2>
+			<p>
+				Managed some easy level Codewars kata.
+			</p>
 		</div>
 	)
 }
