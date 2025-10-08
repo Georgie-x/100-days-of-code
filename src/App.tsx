@@ -90,6 +90,10 @@ function App() {
 			<p>
 				More Codewars kata. Currently stuck on one that wants the lowest number from an array. In JS I would just sort and get first index, that approach isn't working I've also seen there is a potential min() I could use. It's an array, I may need to mut it or make a vector first? I will work on this one tomorrow, otherwise did quite a lot of others and learnt some good methods.
 			</p>
+				<h2>Day 15</h2>
+			<p>
+				I completed yesterday's kata by mutating array then doing for loop. The best answer used min() like I had seen but I didn't know about unwrap(). I can't find a decent list of all the popular methods Rust uses so am keen to get my cheatsheet going.
+			</p>
 		</div>
 	)
 }
