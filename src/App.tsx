@@ -78,21 +78,34 @@ function App() {
 				it seems like they are infinite but slowly working through them is good. I reckon I know my
 				&str vs String at least &#128527;
 			</p>
-				<h2>Day 13</h2>
+			<h2>Day 13</h2>
 			<p>
-				More poring over Rust basics, knowing the stack and the heap which wasn't so important for JS. The book recommended a good exercise of programming lyrics to The Twelve Days of Christmas so I will try this next week.
+				More poring over Rust basics, knowing the stack and the heap which wasn't so important for
+				JS. The book recommended a good exercise of programming lyrics to The Twelve Days of
+				Christmas so I will try this next week.
 			</p>
-					<h2>Day 14</h2>
-			<p>
-				Managed some easy level Codewars kata.
-			</p>
+			<h2>Day 14</h2>
+			<p>Managed some easy level Codewars kata.</p>
 			<h2>Day 15</h2>
 			<p>
-				More Codewars kata. Currently stuck on one that wants the lowest number from an array. In JS I would just sort and get first index, that approach isn't working I've also seen there is a potential min() I could use. It's an array, I may need to mut it or make a vector first? I will work on this one tomorrow, otherwise did quite a lot of others and learnt some good methods.
+				More Codewars kata. Currently stuck on one that wants the lowest number from an array. In JS
+				I would just sort and get first index, that approach isn't working I've also seen there is a
+				potential min() I could use. It's an array, I may need to mut it or make a vector first? I
+				will work on this one tomorrow, otherwise did quite a lot of others and learnt some good
+				methods.
 			</p>
-				<h2>Day 15</h2>
+			<h2>Day 16</h2>
 			<p>
-				I completed yesterday's kata by mutating array then doing for loop. The best answer used min() like I had seen but I didn't know about unwrap(). I can't find a decent list of all the popular methods Rust uses so am keen to get my cheatsheet going.
+				I completed yesterday's kata by mutating array then doing for loop. The best answer used
+				min() like I had seen but I didn't know about unwrap(). I can't find a decent list of all
+				the popular methods Rust uses so am keen to get my cheatsheet going.
+			</p>
+			<h2>Day 17</h2>
+			<p>
+				Started a cheatsheet for Rust methods
+				<a href='https://github.com/Georgie-x/rust-cheatsheets' target='_blank'>
+					github.com/Georgie-x/rust-cheatsheets
+				</a>
 			</p>
 		</div>
 	)
