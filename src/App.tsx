@@ -107,6 +107,10 @@ function App() {
 					github.com/Georgie-x/rust-cheatsheets
 				</a>
 			</p>
+				<h2>Day 18</h2>
+			<p>
+				More on methods, there are a billion so I'll cut it down to top 30/50. Learnt about options and results and which methods are iterators.
+			</p>
 		</div>
 	)
 }
