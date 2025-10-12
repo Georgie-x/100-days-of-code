@@ -114,9 +114,11 @@ function App() {
 			</p>
 			<h2>Day 19</h2>
 			<p>
-				Codewars, used match, as, unwrap(), split_whitespace(), ceil() and format!(). Still only doing easy
-				puzzles but they mainly teach a new thing each time.
+				Codewars, used match, as, unwrap(), split_whitespace(), ceil() and format!(). Still only
+				doing easy puzzles but they mainly teach a new thing each time.
 			</p>
+			<h2>Day 20</h2>
+			<p>Codewars. Discovered nth(), next(), last(), then() and Some().</p>
 		</div>
 	)
 }
