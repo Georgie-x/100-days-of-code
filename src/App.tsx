@@ -119,6 +119,11 @@ function App() {
 			</p>
 			<h2>Day 20</h2>
 			<p>Codewars. Discovered nth(), next(), last(), then() and Some().</p>
+			<h2>Day 21</h2>
+			<p>
+				Swapped to trying to do twelve days of Christmas lyrics exercise. Nice to have some stuff
+				down that works but I haven't got the recursion going yet.
+			</p>
 		</div>
 	)
 }
