@@ -124,6 +124,10 @@ function App() {
 				Swapped to trying to do twelve days of Christmas lyrics exercise. Nice to have some stuff
 				down that works but I haven't got the recursion going yet.
 			</p>
+				<h2>Day 22</h2>
+			<p>
+				I've managed to get the song lyrics working! I read that rust doesn't like recursion and to just do loops so I used two vectors and a for loop with a variable to stash the previous lines in. The grammar and formatting needs work to deal with commas and the first and second days being a bit different. I'm pleased I managed to do this and am interested to see if others used the same technique or there's some amazing chaining of methods that I missed.
+			</p>
 		</div>
 	)
 }
