@@ -102,7 +102,7 @@ function App() {
 			</p>
 			<h2>Day 17</h2>
 			<p>
-				Started a cheatsheet for Rust methods
+				Started a cheatsheet for Rust methods{" "}
 				<a href='https://github.com/Georgie-x/rust-cheatsheets' target='_blank'>
 					github.com/Georgie-x/rust-cheatsheets
 				</a>
@@ -124,10 +124,71 @@ function App() {
 				Swapped to trying to do twelve days of Christmas lyrics exercise. Nice to have some stuff
 				down that works but I haven't got the recursion going yet.
 			</p>
-				<h2>Day 22</h2>
+			<h2>Day 22</h2>
 			<p>
-				I've managed to get the song lyrics working! I read that rust doesn't like recursion and to just do loops so I used two vectors and a for loop with a variable to stash the previous lines in. The grammar and formatting needs work to deal with commas and the first and second days being a bit different. I'm pleased I managed to do this and am interested to see if others used the same technique or there's some amazing chaining of methods that I missed.
+				I've managed to get the song lyrics working! I read that rust doesn't like recursion and to
+				just do loops so I used two vectors and a for loop with a variable to stash the previous
+				lines in. The grammar and formatting needs work to deal with commas and the first and second
+				days being a bit different. I'm pleased I managed to do this and am interested to see if
+				others used the same technique or there's some amazing chaining of methods that I missed.
 			</p>
+			<h2>Day 23</h2>
+			<p>
+				Here is my code for the twelve days of Christmas song. I've seen other solutions with
+				everything as functions, I'm not sure if the way I've done it is because of JS background
+				but I think the code seems neat and it works.
+			</p>
+
+			<pre>
+				<code>
+					{`
+	// Twelve Days of Christmas in Rust
+
+fn main() {
+    let gifts = vec![
+        "A partridge in a pear tree!",
+        "Two turtle doves and",
+        "Three French hens,",
+        "Four calling birds,",
+        "Five gold rings,",
+        "Six geese a-laying,",
+        "Seven swans a-swimming,",
+        "Eight maids a-milking,",
+        "Nine ladies dancing,",
+        "Ten lords a-leaping,",
+        "Eleven pipers piping,",
+        "Twelve drummers drumming,",
+    ];
+
+    let ordinal = vec![
+        "first",
+        "second",
+        "third",
+        "fourth",
+        "fifth",
+        "sixth",
+        "seventh",
+        "eighth",
+        "ninth",
+        "tenth",
+        "eleventh",
+        "twelfth"
+    ];
+
+    let mut previous_lines: Vec<String> = vec![];
+
+    for i in 1..13 {
+        println!("On the {} day of Christmas my true love gave to me...", ordinal[i-1]);
+    let formatted_line = format!("{}\\n", gifts[i-1]);            
+        println!("{}{}", formatted_line, previous_lines.join(""));
+        previous_lines.insert(0, formatted_line);
+
+    }
+}
+
+`}
+				</code>
+			</pre>
 		</div>
 	)
 }
