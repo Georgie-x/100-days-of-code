@@ -189,6 +189,11 @@ fn main() {
 `}
 				</code>
 			</pre>
+			<h2>Day 24</h2>
+			<p>
+				Created modules and linked them to run when selected in main, I want to do the other couple
+				of Rust book puzzle suggestions then build an API.
+			</p>
 		</div>
 	)
 }
