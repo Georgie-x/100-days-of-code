@@ -194,6 +194,10 @@ fn main() {
 				Created modules and linked them to run when selected in main, I want to do the other couple
 				of Rust book puzzle suggestions then build an API.
 			</p>
+			<h2>Day 25</h2>
+			<p>
+				Started the Fibonacci sequence puzzle, harder than I imagined, I'm stuggling with my results being out of scope.
+			</p>
 		</div>
 	)
 }
