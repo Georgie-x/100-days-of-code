@@ -91,4 +91,4 @@ fn main() {
     }
 }
 
-`})}),M.jsx("h2",{children:"Day 24"}),M.jsx("p",{children:"Created modules and linked them to run when selected in main, I want to do the other couple of Rust book puzzle suggestions then build an API."}),M.jsx("h2",{children:"Day 25"}),M.jsx("p",{children:"Started the Fibonacci sequence puzzle, harder than I imagined, I'm stuggling with my results being out of scope."})]})}By.createRoot(document.getElementById("root")).render(M.jsx(py.StrictMode,{children:M.jsx(Gy,{})}));
+`})}),M.jsx("h2",{children:"Day 24"}),M.jsx("p",{children:"Created modules and linked them to run when selected in main, I want to do the other couple of Rust book puzzle suggestions then build an API."}),M.jsx("h2",{children:"Day 25"}),M.jsx("p",{children:"Started the Fibonacci sequence puzzle, harder than I imagined, I'm stuggling with my results being out of scope."}),M.jsx("h2",{children:"Day 26"}),M.jsx("p",{children:"Still doing Fibonacci 🥺"})]})}By.createRoot(document.getElementById("root")).render(M.jsx(py.StrictMode,{children:M.jsx(Gy,{})}));
