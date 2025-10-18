@@ -198,6 +198,10 @@ fn main() {
 			<p>
 				Started the Fibonacci sequence puzzle, harder than I imagined, I'm stuggling with my results being out of scope.
 			</p>
+				<h2>Day 26</h2>
+			<p>
+				Still doing Fibonacci &#129402;
+			</p>
 		</div>
 	)
 }
