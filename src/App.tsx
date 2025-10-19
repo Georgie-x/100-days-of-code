@@ -202,6 +202,10 @@ fn main() {
 			<p>
 				Still doing Fibonacci &#129402;
 			</p>
+					<h2>Day 27</h2>
+			<p>
+				Did some Rust methods cheatsheets.
+			</p>
 		</div>
 	)
 }
