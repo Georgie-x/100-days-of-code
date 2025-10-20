@@ -206,7 +206,7 @@ fn main() {
 			<p>
 				Did some Rust methods cheatsheets.
 			</p>
-							<h2>Day 27</h2>
+							<h2>Day 28</h2>
 			<p>
 				Finished fibonacci and a quiz api, had to rely heavily on AI because every simple axum tutorial seemed not so simple. At least I now have working modules and can study the code. I'm going to finish with Rust for now, go back to a little JS and then try another language. I know Rust is meant to be hard but on paper it was the one I liked the best, I'm hoping learning some others will help in general.
 			</p>
