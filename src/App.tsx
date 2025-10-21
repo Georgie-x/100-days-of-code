@@ -196,19 +196,24 @@ fn main() {
 			</p>
 			<h2>Day 25</h2>
 			<p>
-				Started the Fibonacci sequence puzzle, harder than I imagined, I'm stuggling with my results being out of scope.
+				Started the Fibonacci sequence puzzle, harder than I imagined, I'm stuggling with my results
+				being out of scope.
 			</p>
-				<h2>Day 26</h2>
+			<h2>Day 26</h2>
+			<p>Still doing Fibonacci &#129402;</p>
+			<h2>Day 27</h2>
+			<p>Did some Rust methods cheatsheets.</p>
+			<h2>Day 28</h2>
 			<p>
-				Still doing Fibonacci &#129402;
+				Finished fibonacci and a quiz api, had to rely heavily on AI because every simple axum
+				tutorial seemed not so simple. At least I now have working modules and can study the code.
+				I'm going to finish with Rust for now, go back to a little JS and then try another language.
+				I know Rust is meant to be hard but on paper it was the one I liked the best, I'm hoping
+				learning some others will help in general.
 			</p>
-					<h2>Day 27</h2>
+			<h2>Day 29</h2>
 			<p>
-				Did some Rust methods cheatsheets.
-			</p>
-							<h2>Day 28</h2>
-			<p>
-				Finished fibonacci and a quiz api, had to rely heavily on AI because every simple axum tutorial seemed not so simple. At least I now have working modules and can study the code. I'm going to finish with Rust for now, go back to a little JS and then try another language. I know Rust is meant to be hard but on paper it was the one I liked the best, I'm hoping learning some others will help in general.
+				I love vanilla CSS and have been a bit reluctant to try other variants but I am going for Sass. I'm familiar with Tailwind and Bootstrap seems to make everything easier which maybe takes the fun out of things. I've converted this 100 days page to Sass and popped in some variables which has worked fine. I already use custom variables in CSS so tomorrow I will try and find the things Sass can do that CSS can't.
 			</p>
 		</div>
 	)

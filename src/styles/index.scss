@@ -1,0 +1,38 @@
+@use "globals" as g; 
+
+
+body {
+	background-color: g.$secondary-color;
+	color: g.$primary-color;
+	max-width: 720px;
+	margin: auto;
+	font-size: g.$font-normal;
+	font-family: "Akatab", Calibri, "Trebuchet MS", sans-serif;
+	padding: g.$gap-normal;
+}
+
+a {
+	color: g.$highlight-color;
+}
+
+h1 {
+	text-align: center;
+}
+
+.content {
+	margin: g.$gap-normal;
+}
+
+code {
+	font-size: g.$font-small;
+	
+	
+}
+
+pre {
+	max-width: 720px;
+	overflow-x: auto;
+	background-color: g.$code-color;
+	padding:10px;
+}
+
