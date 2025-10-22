@@ -36,3 +36,22 @@ pre {
 	padding:10px;
 }
 
+.buttons{
+	display: flex;
+	gap: g.$gap-normal;
+}
+
+button.abut {
+		@include g.button($color: aqua)
+	}
+	button.bbut {
+		@include g.button($color: blue)
+	}
+	button.cbut {
+		@include g.button($color: cyan)
+	}
+	button.dbut {
+		@include g.button($color: darkcyan)
+	}
+
+

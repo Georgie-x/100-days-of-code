@@ -1,3 +1,6 @@
+import SassDemo from "./components/sass-demo"
+import RustDemo from "./components/rust-demo"
+
 function App() {
 	return (
 		<div className='content'>
@@ -139,56 +142,7 @@ function App() {
 				but I think the code seems neat and it works.
 			</p>
 
-			<pre>
-				<code>
-					{`
-	// Twelve Days of Christmas in Rust
-
-fn main() {
-    let gifts = vec![
-        "A partridge in a pear tree!",
-        "Two turtle doves and",
-        "Three French hens,",
-        "Four calling birds,",
-        "Five gold rings,",
-        "Six geese a-laying,",
-        "Seven swans a-swimming,",
-        "Eight maids a-milking,",
-        "Nine ladies dancing,",
-        "Ten lords a-leaping,",
-        "Eleven pipers piping,",
-        "Twelve drummers drumming,",
-    ];
-
-    let ordinal = vec![
-        "first",
-        "second",
-        "third",
-        "fourth",
-        "fifth",
-        "sixth",
-        "seventh",
-        "eighth",
-        "ninth",
-        "tenth",
-        "eleventh",
-        "twelfth"
-    ];
-
-    let mut previous_lines: Vec<String> = vec![];
-
-    for i in 1..13 {
-        println!("On the {} day of Christmas my true love gave to me...", ordinal[i-1]);
-    let formatted_line = format!("{}\\n", gifts[i-1]);            
-        println!("{}{}", formatted_line, previous_lines.join(""));
-        previous_lines.insert(0, formatted_line);
-
-    }
-}
-
-`}
-				</code>
-			</pre>
+			<RustDemo />
 			<h2>Day 24</h2>
 			<p>
 				Created modules and linked them to run when selected in main, I want to do the other couple
@@ -213,8 +167,15 @@ fn main() {
 			</p>
 			<h2>Day 29</h2>
 			<p>
-				I love vanilla CSS and have been a bit reluctant to try other variants but I am going for Sass. I'm familiar with Tailwind and Bootstrap seems to make everything easier which maybe takes the fun out of things. I've converted this 100 days page to Sass and popped in some variables which has worked fine. I already use custom variables in CSS so tomorrow I will try and find the things Sass can do that CSS can't.
+				I love vanilla CSS and have been a bit reluctant to try other variants but I am going for
+				Sass. I'm familiar with Tailwind and Bootstrap seems to make everything easier which maybe
+				takes the fun out of things. I've converted this 100 days page to Sass and popped in some
+				variables which has worked fine. I already use custom variables in CSS so tomorrow I will
+				try and find the things Sass can do that CSS can't.
 			</p>
+			<h2>Day 30</h2>
+			<p>Still Sassing. I tried a mixin, not sure if it's a good use case, just using arguments to assign colours to otherwise identical buttons. Demo below:</p>
+			<SassDemo />
 		</div>
 	)
 }
