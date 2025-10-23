@@ -176,6 +176,10 @@ function App() {
 			<h2>Day 30</h2>
 			<p>Still Sassing. I tried a mixin, not sure if it's a good use case, just using arguments to assign colours to otherwise identical buttons. Demo below:</p>
 			<SassDemo />
+
+					<h2>Day 31</h2>
+			<p>Read about Redux and Next.js, not sure which to try also there's Vue even. I'm not sure I want to get into anything confusing for this I just want to pick the most helpful.</p>
+			
 		</div>
 	)
 }
