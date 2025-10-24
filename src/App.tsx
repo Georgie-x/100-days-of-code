@@ -179,6 +179,8 @@ function App() {
 
 					<h2>Day 31</h2>
 			<p>Read about Redux and Next.js, not sure which to try also there's Vue even. I'm not sure I want to get into anything confusing for this I just want to pick the most helpful.</p>
+			<h2>Day 32</h2>
+			<p>Reading React 19.2 docs to update myself as to what's changed. Doing a tutorial through their own IDE, but it's buggy making it doubly hard.</p>
 			
 		</div>
 	)
