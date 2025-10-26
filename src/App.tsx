@@ -183,6 +183,8 @@ function App() {
 			<p>Reading React 19.2 docs to update myself as to what's changed. Doing a tutorial through their own IDE, but it's buggy making it doubly hard.</p>
 			<h2>Day 33</h2>
 			<p>Refreshing React and doing little exercises off the main <a href="https://react.dev/learn/">React docs</a>
+			<h2>Day 34</h2>
+			<p>More React and randomly bought myself a little VPS</p>
 		</div>
 	)
 }
