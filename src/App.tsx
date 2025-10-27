@@ -185,6 +185,8 @@ function App() {
 			<p>Refreshing React and doing little exercises off the main <a href="https://react.dev/learn/">React docs</a>
 			<h2>Day 34</h2>
 			<p>More React and randomly bought myself a little VPS</p>
+			<h2>Day 35</h2>
+			<p>Spent a while setting up VPS, installed Ubuntu LTS on it and setup SSH for my laptop then updated, created user and installed firewall. So now I'm at the stage where I need to get nginx, Docker, a backend and a database on there to check I can hook it all up correctly. I plan to host backends and databases on it and a sneaky game server, if I can.</p>
 		</div>
 	)
 }
