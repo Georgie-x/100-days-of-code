@@ -174,19 +174,43 @@ function App() {
 				try and find the things Sass can do that CSS can't.
 			</p>
 			<h2>Day 30</h2>
-			<p>Still Sassing. I tried a mixin, not sure if it's a good use case, just using arguments to assign colours to otherwise identical buttons. Demo below:</p>
+			<p>
+				Still Sassing. I tried a mixin, not sure if it's a good use case, just using arguments to
+				assign colours to otherwise identical buttons. Demo below:
+			</p>
 			<SassDemo />
 
-					<h2>Day 31</h2>
-			<p>Read about Redux and Next.js, not sure which to try also there's Vue even. I'm not sure I want to get into anything confusing for this I just want to pick the most helpful.</p>
+			<h2>Day 31</h2>
+			<p>
+				Read about Redux and Next.js, not sure which to try also there's Vue even. I'm not sure I
+				want to get into anything confusing for this I just want to pick the most helpful.
+			</p>
 			<h2>Day 32</h2>
-			<p>Reading React 19.2 docs to update myself as to what's changed. Doing a tutorial through their own IDE, but it's buggy making it doubly hard.</p>
+			<p>
+				Reading React 19.2 docs to update myself as to what's changed. Doing a tutorial through
+				their own IDE, but it's buggy making it doubly hard.
+			</p>
 			<h2>Day 33</h2>
-			<p>Refreshing React and doing little exercises off the main <a href="https://react.dev/learn/">React docs</a>.</p>
+			<p>
+				Refreshing React and doing little exercises off the main{" "}
+				<a href='https://react.dev/learn/'>React docs</a>.
+			</p>
 			<h2>Day 34</h2>
 			<p>More React and randomly bought myself a little VPS.</p>
 			<h2>Day 35</h2>
-			<p>Spent a while setting up VPS, installed Ubuntu LTS on it and setup SSH for my laptop then updated, created user and installed firewall. So now I'm at the stage where I need to get nginx, Docker, a backend and a database on there to check I can hook it all up correctly. I plan to host backends and databases on it and a sneaky game server, if I can.</p>
+			<p>
+				Spent a while setting up VPS, installed Ubuntu LTS on it and setup SSH for my laptop then
+				updated, created user and installed firewall. So now I'm at the stage where I need to get
+				nginx, Docker, a backend and a database on there to check I can hook it all up correctly. I
+				plan to host backends and databases on it and a sneaky game server, if I can.
+			</p>
+			<h2>Day 35</h2>
+			<p>
+				Reading up on using my VPS for backends and db. It's been a while since I made a proper back
+				end and seeded databases. I was using ElephantSQL which is now out of business so I need to
+				find another way to do the same as before or find a new way. It might be easiest if I do a
+				backend first with a demo database inside.
+			</p>
 		</div>
 	)
 }
