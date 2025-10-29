@@ -204,12 +204,17 @@ function App() {
 				nginx, Docker, a backend and a database on there to check I can hook it all up correctly. I
 				plan to host backends and databases on it and a sneaky game server, if I can.
 			</p>
-			<h2>Day 35</h2>
+			<h2>Day 36</h2>
 			<p>
 				Reading up on using my VPS for backends and db. It's been a while since I made a proper back
 				end and seeded databases. I was using ElephantSQL which is now out of business so I need to
 				find another way to do the same as before or find a new way. It might be easiest if I do a
 				backend first with a demo database inside.
+			</p>
+			<h2>Day 37</h2>
+			<p>
+				Checking out what steps I need to take still and formulating a plan, I might have to practice
+				docker first to enable me to get the bits I need onto the VPS nicely.
 			</p>
 		</div>
 	)
