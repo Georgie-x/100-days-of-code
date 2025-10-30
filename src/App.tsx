@@ -213,8 +213,15 @@ function App() {
 			</p>
 			<h2>Day 37</h2>
 			<p>
-				Checking out what steps I need to take still and formulating a plan, I might have to practice
-				docker first to enable me to get the bits I need onto the VPS nicely.
+				Checking out what steps I need to take still and formulating a plan, I might have to
+				practice docker first to enable me to get the bits I need onto the VPS nicely.
+			</p>
+			<h2>Day 38</h2>
+			<p>
+				Checked out docker a little but mainly looked at my old back end from training. I think I
+				will try and put the highscores in for FlagIt to test everything. The table would just be
+				3/4 columns name/position(optional)/date/score. There would be just 2 endpoints GET + POST
+				with an conditional check as to what scores should be added.
 			</p>
 		</div>
 	)
