@@ -223,10 +223,12 @@ function App() {
 				3/4 columns name/position(optional)/date/score. There would be just 2 endpoints GET + POST
 				with an conditional check as to what scores should be added.
 			</p>
-						<h2>Day 39</h2>
-			<p>
-				Started a backend copying Node-Express format I've used before. Going OK.
-			</p>
+			<h2>Day 39</h2>
+			<p>Started a backend copying Node-Express format I've used before. Going OK.</p>
+			<h2>Day 40</h2>
+			<p>More backend, doing model.</p>
+			<h2>Day 41</h2>
+			<p>More work on models and mock db for the FlagIt server.</p>
 		</div>
 	)
 }
