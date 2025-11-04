@@ -229,8 +229,10 @@ function App() {
 			<p>More backend, doing model.</p>
 			<h2>Day 41</h2>
 			<p>More work on models and mock db for the FlagIt server.</p>
-				<h2>Day 42</h2>
+			<h2>Day 42</h2>
 			<p>Working on app and errors.</p>
+				<h2>Day 43</h2>
+			<p>The FlagIt server is working! (tested with Insomnia), this is just local data so next will be to set up db</p>
 		</div>
 	)
 }
