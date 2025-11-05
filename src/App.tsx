@@ -233,6 +233,8 @@ function App() {
 			<p>Working on app and errors.</p>
 				<h2>Day 43</h2>
 			<p>The FlagIt server is working! (tested with Insomnia), this is just local data so next will be to set up db</p>
+			<h2>Day 43</h2>
+			<p>I dockerised my backend and connected it to frontend, still using mock data</p>
 		</div>
 	)
 }
