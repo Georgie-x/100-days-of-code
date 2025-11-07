@@ -237,6 +237,8 @@ function App() {
 			<p>I dockerised my backend and connected it to frontend, still using mock data</p>
 			<h2>Day 44</h2>
 			<p>Spent most of this time panicking about getting back into the VPS, but have finally done it, will add docker and the be to it next time.</p>
+			<h2>Day 45</h2>
+			<p>Pair programmed with Kieron for the updates to FlagIt, we managed to make it so only one of the games would be ask for a highscore.</p>
 		</div>
 	)
 }
