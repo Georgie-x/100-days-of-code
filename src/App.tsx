@@ -239,6 +239,8 @@ function App() {
 			<p>Spent most of this time panicking about getting back into the VPS, but have finally done it, will add docker and the be to it next time.</p>
 			<h2>Day 45</h2>
 			<p>Pair programmed with Kieron for the updates to FlagIt, we managed to make it so only one of the games would be ask for a highscore.</p>
+			<h2>Day 46</h2>
+			<p>Took a break from server with some CSS animations. I had some using positions absolute/relative but I think I will convert to transform: translate</p>
 		</div>
 	)
 }
