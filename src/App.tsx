@@ -240,7 +240,9 @@ function App() {
 			<h2>Day 45</h2>
 			<p>Pair programmed with Kieron for the updates to FlagIt, we managed to make it so only one of the games would be ask for a highscore.</p>
 			<h2>Day 46</h2>
-			<p>Took a break from server with some CSS animations. I had some using positions absolute/relative but I think I will convert to transform: translate</p>
+			<p>Took a break from server with some CSS animations. I had some using positions absolute/relative but I think I will convert to transform: translate.</p>
+			<h2>Day 47</h2>
+			<p>More animation! I was having fun manually programming an arc animation but found I could use offset-path to make a proper one.</p>
 		</div>
 	)
 }
