@@ -243,6 +243,8 @@ function App() {
 			<p>Took a break from server with some CSS animations. I had some using positions absolute/relative but I think I will convert to transform: translate.</p>
 			<h2>Day 47</h2>
 			<p>More animation! I was having fun manually programming an arc animation but found I could use offset-path to make a proper one.</p>
+			<h2>Day 48</h2>
+			<p>Animations again, I have a sun and a moon going across the sky with darkening sky and land, it's not quite synced up yet. It difficult because I have to allow the sun and moon to travel off the edge of the screen, so I can't just make them appear for 50% of the time each.</p>
 		</div>
 	)
 }
