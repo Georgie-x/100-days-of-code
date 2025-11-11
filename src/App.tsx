@@ -233,18 +233,22 @@ function App() {
 			<p>Working on app and errors.</p>
 				<h2>Day 43</h2>
 			<p>The FlagIt server is working! (tested with Insomnia), this is just local data so next will be to set up db</p>
-			<h2>Day 43</h2>
-			<p>I dockerised my backend and connected it to frontend, still using mock data</p>
 			<h2>Day 44</h2>
-			<p>Spent most of this time panicking about getting back into the VPS, but have finally done it, will add docker and the be to it next time.</p>
+			<p>I dockerised my backend and connected it to frontend, still using mock data</p>
 			<h2>Day 45</h2>
-			<p>Pair programmed with Kieron for the updates to FlagIt, we managed to make it so only one of the games would be ask for a highscore.</p>
+			<p>Spent most of this time panicking about getting back into the VPS, but have finally done it, will add docker and the be to it next time.</p>
 			<h2>Day 46</h2>
-			<p>Took a break from server with some CSS animations. I had some using positions absolute/relative but I think I will convert to transform: translate.</p>
+			<p>Pair programmed with Kieron for the updates to FlagIt, we managed to make it so only one of the games would be ask for a highscore.</p>
 			<h2>Day 47</h2>
-			<p>More animation! I was having fun manually programming an arc animation but found I could use offset-path to make a proper one.</p>
+			<p>Took a break from server with some CSS animations. I had some using positions absolute/relative but I think I will convert to transform: translate.</p>
 			<h2>Day 48</h2>
+			<p>More animation! I was having fun manually programming an arc animation but found I could use offset-path to make a proper one.</p>
+			<h2>Day 49</h2>
 			<p>Animations again, I have a sun and a moon going across the sky with darkening sky and land, it's not quite synced up yet. It difficult because I have to allow the sun and moon to travel off the edge of the screen, so I can't just make them appear for 50% of the time each.</p>
+
+				<h2>Day 50</h2>
+			<p>Animations again, I did a bit better syncing and organised layout.</p>
+
 		</div>
 	)
 }
