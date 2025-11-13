@@ -269,6 +269,8 @@ function App() {
 			<p>Animations again, I did a bit better syncing and organised layout.</p>
 			<h2>Day 51</h2>
 			<p>Did small bit to my sun/moon animation and read about parallax.</p>
+				<h2>Day 52</h2>
+			<p>Still messing with animations.</p>
 		</div>
 	)
 }
