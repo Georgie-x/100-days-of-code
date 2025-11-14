@@ -271,6 +271,8 @@ function App() {
 			<p>Did small bit to my sun/moon animation and read about parallax.</p>
 				<h2>Day 52</h2>
 			<p>Still messing with animations.</p>
+					<h2>Day 53</h2>
+			<p>Added windows so my sun/moon/house animation which turn light on and off.</p>
 		</div>
 	)
 }
