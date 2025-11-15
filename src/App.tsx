@@ -273,6 +273,8 @@ function App() {
 			<p>Still messing with animations.</p>
 					<h2>Day 53</h2>
 			<p>Added windows so my sun/moon/house animation which turn light on and off.</p>
+			<h2>Day 54</h2>
+			<p>More animations, added a bus.</p>
 		</div>
 	)
 }
