@@ -269,12 +269,14 @@ function App() {
 			<p>Animations again, I did a bit better syncing and organised layout.</p>
 			<h2>Day 51</h2>
 			<p>Did small bit to my sun/moon animation and read about parallax.</p>
-				<h2>Day 52</h2>
+			<h2>Day 52</h2>
 			<p>Still messing with animations.</p>
-					<h2>Day 53</h2>
+			<h2>Day 53</h2>
 			<p>Added windows so my sun/moon/house animation which turn light on and off.</p>
 			<h2>Day 54</h2>
 			<p>More animations, added a bus.</p>
+					<h2>Day 55</h2>
+			<p>Added a wrapper for the bus so I can move the wheels and windows relative to the bus, window door and bus timings all pretty good.</p>
 		</div>
 	)
 }
