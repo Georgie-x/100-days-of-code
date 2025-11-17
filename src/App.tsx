@@ -1,5 +1,6 @@
 import SassDemo from "./components/sass-demo"
 import RustDemo from "./components/rust-demo"
+import Animation from "./components/animation"
 
 function App() {
 	return (
@@ -275,8 +276,17 @@ function App() {
 			<p>Added windows so my sun/moon/house animation which turn light on and off.</p>
 			<h2>Day 54</h2>
 			<p>More animations, added a bus.</p>
-					<h2>Day 55</h2>
-			<p>Added a wrapper for the bus so I can move the wheels and windows relative to the bus, window door and bus timings all pretty good.</p>
+			<h2>Day 55</h2>
+			<p>
+				Added a wrapper for the bus so I can move the wheels and windows relative to the bus, window
+				door and bus timings all pretty good.
+			</p>
+			<h2>Day 56</h2>
+			<p>
+				Here is the 'sun-moon' animation, I transferred it over and converted it to Sass, the wheels
+				needed adjusting a little but timings seem ok.
+			</p>
+			<Animation />
 		</div>
 	)
 }

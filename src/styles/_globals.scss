@@ -1,17 +1,34 @@
 $primary-color: white;
 $secondary-color: black;
-$code-color: hsl(0, 0%, 50%,0.3);
+$code-color: hsl(0, 0%, 50%, 0.3);
 $highlight-color: hsl(180, 78%, 42%);
 
 $font-normal: 18px;
 $font-small: 12px;
 $gap-normal: 10px;
 
+// animation variables
+
+$bg-color: hsl(175, 63%, 67%);
+$sun-color: hsl(60, 100%, 50%);
+$sky-day-color: hsl(208, 56%, 65%);
+$sky-night-color: hsl(208, 82%, 22%);
+$land-day-color: hsl(108, 76%, 37%);
+$land-night-color: hsl(108, 97%, 23%);
+$house-day-color: hsl(355, 80%, 27%);
+$house-night-color: hsl(351, 86%, 9%);
+$moon-color: hsl(209, 56%, 91%);
+$window-on-color: white;
+$window-off-color: grey;
+$door-color: red;
+$roof-color: rgb(65, 63, 63);
+$bus-color: rgb(190, 17, 5);
+
 @mixin button($color) {
-    width: 50px;
-    height: 50px;
-    color:rgb(235, 40, 6);
-    background-color: $color;
-    border-radius: 10%;
-    font-size: $font-normal;
+	width: 50px;
+	height: 50px;
+	color: rgb(235, 40, 6);
+	background-color: $color;
+	border-radius: 10%;
+	font-size: $font-normal;
 }
