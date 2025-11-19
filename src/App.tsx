@@ -286,9 +286,17 @@ function App() {
 				Here is the 'sun-moon' animation, I transferred it over and converted it to Sass, the wheels
 				needed adjusting a little but timings seem ok.
 			</p>
-			<h2>Day 57</h2>
-			<p>Finally went back to VPS. I installed Docker on the VPS and managed to get the FlagIt backend on, need to test it all.</p>
 			<Animation />
+			<h2>Day 57</h2>
+			<p>
+				Finally went back to VPS. I installed Docker on the VPS and managed to get the FlagIt
+				backend on, need to test it all.
+			</p>
+			<h2>Day 58</h2>
+			<p>
+				Continuing to setup up VPS to handle FlagIt highscores, next I have to convert my backend to
+				https with nginx.
+			</p>
 		</div>
 	)
 }
