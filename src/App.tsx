@@ -297,6 +297,10 @@ function App() {
 				Continuing to setup up VPS to handle FlagIt highscores, next I have to convert my backend to
 				https with nginx.
 			</p>
+			<h2>Day 59</h2>
+			<p>
+				Sorted out nginx and got certificates and domains in place, it's been stressful but now frontend can log scores to backend, but need the db to make it persist.
+			</p>
 		</div>
 	)
 }
