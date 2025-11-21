@@ -301,6 +301,10 @@ function App() {
 			<p>
 				Sorted out nginx and got certificates and domains in place, it's been stressful but now frontend can log scores to backend, but need the db to make it persist.
 			</p>
+				<h2>Day 60</h2>
+			<p>
+				Pair programming some FlagIt frontend with Kieron.
+			</p>
 		</div>
 	)
 }
