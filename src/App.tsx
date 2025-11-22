@@ -305,6 +305,10 @@ function App() {
 			<p>
 				Pair programming some FlagIt frontend with Kieron.
 			</p>
+					<h2>Day 61</h2>
+			<p>
+				Connected fe + be + db, still need to fix up frontend more, getting unwanted scrolling.
+			</p>
 		</div>
 	)
 }
