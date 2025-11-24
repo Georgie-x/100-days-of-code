@@ -299,15 +299,16 @@ function App() {
 			</p>
 			<h2>Day 59</h2>
 			<p>
-				Sorted out nginx and got certificates and domains in place, it's been stressful but now frontend can log scores to backend, but need the db to make it persist.
+				Sorted out nginx and got certificates and domains in place, it's been stressful but now
+				frontend can log scores to backend, but need the db to make it persist.
 			</p>
-				<h2>Day 60</h2>
+			<h2>Day 60</h2>
+			<p>Pair programming some FlagIt frontend with Kieron.</p>
+			<h2>Day 61</h2>
+			<p>Connected fe + be + db, still need to fix up frontend more, getting unwanted scrolling.</p>
+			<h2>Day 62</h2>
 			<p>
-				Pair programming some FlagIt frontend with Kieron.
-			</p>
-					<h2>Day 61</h2>
-			<p>
-				Connected fe + be + db, still need to fix up frontend more, getting unwanted scrolling.
+				Sorted metadata for this repo, added a lovely favicon <img src='./public/favicon.ico'></img>
 			</p>
 		</div>
 	)
