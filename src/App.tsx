@@ -310,6 +310,10 @@ function App() {
 			<p>
 				Sorted metadata for this repo, added a lovely favicon <img src='./public/favicon.ico'></img>
 			</p>
+				<h2>Day 63</h2>
+			<p>
+				More FlagIt frontend with Kieron"
+			</p>
 		</div>
 	)
 }
