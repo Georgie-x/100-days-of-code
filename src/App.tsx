@@ -310,9 +310,13 @@ function App() {
 			<p>
 				Sorted metadata for this repo, added a lovely favicon <img src='./public/favicon.ico'></img>
 			</p>
-				<h2>Day 63</h2>
+			<h2>Day 63</h2>
+			<p>More FlagIt frontend with Kieron</p>
+			<h2>Day 64</h2>
 			<p>
-				More FlagIt frontend with Kieron"
+				More FlagIt frontend - main problem today was making sure borders on hover didn't appear on
+				mobile devices because they were always highlighting wrong thing. Also used dvh successfully
+				to make sure whole page fits on mobile.
 			</p>
 		</div>
 	)
