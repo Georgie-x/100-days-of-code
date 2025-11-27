@@ -318,6 +318,10 @@ function App() {
 				mobile devices because they were always highlighting wrong thing. Also used dvh successfully
 				to make sure whole page fits on mobile.
 			</p>
+					<h2>Day 65</h2>
+			<p>
+				I've moved on to learning Python, I've done a bit before but only basics. I have an idea for a little project I could aim for, I only want to spend one or two weeks because there are other languages I want to try. First I will be doing some Codewars and trying to replicate the Twelve days of Christmas I did in Rust.
+			</p>
 		</div>
 	)
 }
