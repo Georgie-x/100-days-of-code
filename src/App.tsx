@@ -318,9 +318,51 @@ function App() {
 				mobile devices because they were always highlighting wrong thing. Also used dvh successfully
 				to make sure whole page fits on mobile.
 			</p>
-					<h2>Day 65</h2>
+			<h2>Day 65</h2>
 			<p>
-				I've moved on to learning Python, I've done a bit before but only basics. I have an idea for a little project I could aim for, I only want to spend one or two weeks because there are other languages I want to try. First I will be doing some Codewars and trying to replicate the Twelve days of Christmas I did in Rust.
+				I've moved on to learning Python, I've done a bit before but only basics. I have an idea for
+				a little project I could aim for, I only want to spend one or two weeks because there are
+				other languages I want to try. First I will be doing some Codewars and trying to replicate
+				the Twelve days of Christmas I did in Rust.
+			</p>
+			<h2>Day 66</h2>
+			<p>Made a python repo and tried a bit, I'm making a Farenheit to Celcius converter.</p>
+			<h2>Day 67</h2>
+			<p>Just did some python reading. (W3 mainly - although I'm not keen on its style)</p>
+			<h2>Day 68</h2>
+			<p>
+				Did a bunch of codewars in Python, I like the slice method [:::] but there are a lot of
+				weird things like there not really being a function for repeat and having to import math.
+			</p>
+			<h2>Day 69</h2>
+			<p>
+				Reverted back to JavaScript for <a href='https://adventofcode.com/2025'>Advent of Code</a>{" "}
+				where there are two puzzles a day for Advent. I've been excited about this and tried it once
+				before but couldn't remember how difficult it was. The first main hurdle was getting the
+				data from the puzzles in a readable format, so I spent a lot of time on that, then the first
+				puzzle I did quite quick, second one took hours and I had to rely on AI at the end.
+			</p>
+
+			<h2>Day 70</h2>
+			<p>
+				Day 2 of advent, spent hours on the puzzles again but have managed them, I don't know how
+				much the difficulty is going to scale up. Used .match() to make arrays of different lengths
+				which I hadn't used much before.
+			</p>
+			<h2>Day 71</h2>
+			<p>Day 3 of advent, tough stuff again but I have managed both, it was looping again.</p>
+			<h2>Day 72</h2>
+			<p>
+				{" "}
+				Day 4 of advent, it's harder now and I haven't achieved anything yet, I want to psuedo code
+				it before I begin. The puzzle is about traversing nested arrays, I don't know the technical
+				term for this to look up but if I don't have a good idea I will maybe look at battleships
+				code because I think that would use same technique.
+			</p>
+			<h2>Day 73</h2>
+			<p>
+				{" "}
+				Day 5 of advent, I managed half of yesterday's puzzle. Today's seems easier hopefully (would be very useful if JS had a range function but I should be able to do it manually).
 			</p>
 		</div>
 	)
