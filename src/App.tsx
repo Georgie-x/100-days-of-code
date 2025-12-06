@@ -362,7 +362,13 @@ function App() {
 			<h2>Day 73</h2>
 			<p>
 				{" "}
-				Day 5 of advent, I managed half of yesterday's puzzle. Today's seems easier hopefully (would be very useful if JS had a range function but I should be able to do it manually).
+				Day 5 of advent, I managed half of yesterday's puzzle. Today's seems easier hopefully (would
+				be very useful if JS had a range function but I should be able to do it manually).
+			</p>
+			<h2>Day 74</h2>
+			<p>
+				{" "}
+				Day 6 of advent, today's puzzle is pretty fun and the first half is easier than previous days. The second half I think involves triple nesting which I'm not sure how to deal with yet.
 			</p>
 		</div>
 	)
