@@ -353,7 +353,6 @@ function App() {
 			<p>Day 3 of advent, tough stuff again but I have managed both, it was looping again.</p>
 			<h2>Day 72</h2>
 			<p>
-				{" "}
 				Day 4 of advent, it's harder now and I haven't achieved anything yet, I want to psuedo code
 				it before I begin. The puzzle is about traversing nested arrays, I don't know the technical
 				term for this to look up but if I don't have a good idea I will maybe look at battleships
@@ -361,14 +360,16 @@ function App() {
 			</p>
 			<h2>Day 73</h2>
 			<p>
-				{" "}
 				Day 5 of advent, I managed half of yesterday's puzzle. Today's seems easier hopefully (would
 				be very useful if JS had a range function but I should be able to do it manually).
 			</p>
 			<h2>Day 74</h2>
 			<p>
-				{" "}
 				Day 6 of advent, today's puzzle is pretty fun and the first half is easier than previous days. The second half I think involves triple nesting which I'm not sure how to deal with yet.
+			</p>
+				<h2>Day 75</h2>
+			<p>
+				Day 7 of advent, I've spent all my time on the second puzzle from yesterday, I though I had a great shortcut answer but it only worked for addition and not multiplication. Will have a quick look at today's and come back to this one soon.
 			</p>
 		</div>
 	)
