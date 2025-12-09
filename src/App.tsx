@@ -371,6 +371,10 @@ function App() {
 			<p>
 				Day 7 of advent, I've spent all my time on the second puzzle from yesterday, I though I had a great shortcut answer but it only worked for addition and not multiplication. Will have a quick look at today's and come back to this one soon.
 			</p>
+					<h2>Day 76</h2>
+			<p>
+				Day 8 of advent, I have more of a backlog now but still slowly progressing, today's problem uses Euclidian distance but I'm not sure how to check and store relevant distances and coordinates.
+			</p>
 		</div>
 	)
 }
