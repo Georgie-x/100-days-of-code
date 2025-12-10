@@ -375,6 +375,12 @@ function App() {
 			<p>
 				Day 8 of advent, I have more of a backlog now but still slowly progressing, today's problem uses Euclidian distance but I'm not sure how to check and store relevant distances and coordinates.
 			</p>
+				<h2>Day 77</h2>
+			<p> More day 8, I'm not trying to go crazy fast to keep up any more but I'll try and complete as much as poss.</p>
+						<h2>Day 78</h2>
+			<p>I've been travelling today so not enough time for advent puzzles, I will do some more Python reading.</p>
+			
+
 		</div>
 	)
 }
