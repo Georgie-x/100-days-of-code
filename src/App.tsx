@@ -365,22 +365,37 @@ function App() {
 			</p>
 			<h2>Day 74</h2>
 			<p>
-				Day 6 of advent, today's puzzle is pretty fun and the first half is easier than previous days. The second half I think involves triple nesting which I'm not sure how to deal with yet.
+				Day 6 of advent, today's puzzle is pretty fun and the first half is easier than previous
+				days. The second half I think involves triple nesting which I'm not sure how to deal with
+				yet.
 			</p>
-				<h2>Day 75</h2>
+			<h2>Day 75</h2>
 			<p>
-				Day 7 of advent, I've spent all my time on the second puzzle from yesterday, I though I had a great shortcut answer but it only worked for addition and not multiplication. Will have a quick look at today's and come back to this one soon.
+				Day 7 of advent, I've spent all my time on the second puzzle from yesterday, I though I had
+				a great shortcut answer but it only worked for addition and not multiplication. Will have a
+				quick look at today's and come back to this one soon.
 			</p>
-					<h2>Day 76</h2>
+			<h2>Day 76</h2>
 			<p>
-				Day 8 of advent, I have more of a backlog now but still slowly progressing, today's problem uses Euclidian distance but I'm not sure how to check and store relevant distances and coordinates.
+				Day 8 of advent, I have more of a backlog now but still slowly progressing, today's problem
+				uses Euclidian distance but I'm not sure how to check and store relevant distances and
+				coordinates.
 			</p>
-				<h2>Day 77</h2>
-			<p> More day 8, I'm not trying to go crazy fast to keep up any more but I'll try and complete as much as poss.</p>
-						<h2>Day 78</h2>
-			<p>I've been travelling today so not enough time for advent puzzles, I will do some more Python reading.</p>
-			
+			<h2>Day 77</h2>
+			<p>
+				More day 8, I'm not trying to go crazy fast to keep up any more but I'll try and complete as
+				much as poss.
+			</p>
+			<h2>Day 78</h2>
+			<p>
+				I've been travelling today so not enough time for advent puzzles, I will do some more Python
+				reading.
+			</p>
 
+			<h2>Day 79</h2>
+			<p>
+				Ok back to day 8's puzzle, I've spent a couple of hours on it but still no breakthrough, it is getting better, hope I'm not overcomplicating it.
+			</p>
 		</div>
 	)
 }
