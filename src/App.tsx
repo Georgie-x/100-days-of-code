@@ -396,6 +396,12 @@ function App() {
 			<p>
 				Ok back to day 8's puzzle, I've spent a couple of hours on it but still no breakthrough, it is getting better, hope I'm not overcomplicating it.
 			</p>
+
+			<h2>Day 80</h2>
+			<p>
+				I'm waving the white flag on advent puzzles for now &#128546;, looking at the stats less and less people are able to achieve the puzzles so I think getting 2/3rds through isn't bad. Doing a couple of days Python before I started these puzzles in JavaScript was unhelpful because I made sloppy mistakes like forgetting to use let in declarations. I'm not sure whether to go back to Python, Rust made me think more carefully about typing/code and what you are really trying to achieve, Python seems more lawless and maybe bad habit forming. Read about Rust more.
+			</p>
+			
 		</div>
 	)
 }
