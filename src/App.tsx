@@ -401,6 +401,10 @@ function App() {
 			<p>
 				I'm waving the white flag on advent puzzles for now &#128546;, looking at the stats less and less people are able to achieve the puzzles so I think getting 2/3rds through isn't bad. Doing a couple of days Python before I started these puzzles in JavaScript was unhelpful because I made sloppy mistakes like forgetting to use let in declarations. I'm not sure whether to go back to Python, Rust made me think more carefully about typing/code and what you are really trying to achieve, Python seems more lawless and maybe bad habit forming. Read about Rust more.
 			</p>
+			<h2>Day 81</h2>
+			<p>
+				Did some Rust Codewars with Kieron doing the same ones in JavaScript, good practice, I found the cool .fract() method.
+			</p>
 			
 		</div>
 	)
