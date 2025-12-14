@@ -405,6 +405,10 @@ function App() {
 			<p>
 				Did some Rust Codewars with Kieron doing the same ones in JavaScript, good practice, I found the cool .fract() method.
 			</p>
+				<h2>Day 82</h2>
+			<p>
+				More Rust puzzles and reading.
+			</p>
 			
 		</div>
 	)
