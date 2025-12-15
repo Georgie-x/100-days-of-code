@@ -409,6 +409,10 @@ function App() {
 			<p>
 				More Rust puzzles and reading.
 			</p>
+				<h2>Day 83</h2>
+			<p>
+				More Rust puzzles, I downloaded a game last night which inadvertantly uses Python (which I decided to take a break from the other day to not cause language confusion). It's ok, I'm just at the start where it's simple and pleasant <a href="https://store.steampowered.com/app/2060160/The_Farmer_Was_Replaced/">The Farmer Was Replaced</a>, I'm hoping it will help with general coding.
+			</p>
 			
 		</div>
 	)
