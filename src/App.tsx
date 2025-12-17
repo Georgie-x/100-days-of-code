@@ -417,6 +417,10 @@ function App() {
 			<p>
 				More Rust puzzles, I learnt .dedup() today, a google search for Rust version of JavaScript's set brought back .unique() which I couldn't make work but dedup was perfect.
 			</p>
+						<h2>Day 85</h2>
+			<p>
+				More Rust Codewars, I've gone up a level and doing ok, I still need to make myself some kind of reference sheet, there's no go-to place to find out info on methods and see examples.  
+			</p>
 			
 		</div>
 	)
