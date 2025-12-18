@@ -421,6 +421,10 @@ function App() {
 			<p>
 				More Rust Codewars, I've gone up a level and doing ok, I still need to make myself some kind of reference sheet, there's no go-to place to find out info on methods and see examples.  
 			</p>
+							<h2>Day 86</h2>
+			<p>
+				Bit more Rust Codewars and reading up on all string methods. 
+			</p>
 			
 		</div>
 	)
