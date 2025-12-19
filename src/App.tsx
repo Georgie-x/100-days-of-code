@@ -394,38 +394,51 @@ function App() {
 
 			<h2>Day 79</h2>
 			<p>
-				Ok back to day 8's puzzle, I've spent a couple of hours on it but still no breakthrough, it is getting better, hope I'm not overcomplicating it.
+				Ok back to day 8's puzzle, I've spent a couple of hours on it but still no breakthrough, it
+				is getting better, hope I'm not overcomplicating it.
 			</p>
 
 			<h2>Day 80</h2>
 			<p>
-				I'm waving the white flag on advent puzzles for now &#128546;, looking at the stats less and less people are able to achieve the puzzles so I think getting 2/3rds through isn't bad. Doing a couple of days Python before I started these puzzles in JavaScript was unhelpful because I made sloppy mistakes like forgetting to use let in declarations. I'm not sure whether to go back to Python, Rust made me think more carefully about typing/code and what you are really trying to achieve, Python seems more lawless and maybe bad habit forming. Read about Rust more.
+				I'm waving the white flag on advent puzzles for now &#128546;, looking at the stats less and
+				less people are able to achieve the puzzles so I think getting 2/3rds through isn't bad.
+				Doing a couple of days Python before I started these puzzles in JavaScript was unhelpful
+				because I made sloppy mistakes like forgetting to use let in declarations. I'm not sure
+				whether to go back to Python, Rust made me think more carefully about typing/code and what
+				you are really trying to achieve, Python seems more lawless and maybe bad habit forming.
+				Read about Rust more.
 			</p>
 			<h2>Day 81</h2>
 			<p>
-				Did some Rust Codewars with Kieron doing the same ones in JavaScript, good practice, I found the cool .fract() method.
+				Did some Rust Codewars with Kieron doing the same ones in JavaScript, good practice, I found
+				the cool .fract() method.
 			</p>
-				<h2>Day 82</h2>
+			<h2>Day 82</h2>
+			<p>More Rust puzzles and reading.</p>
+			<h2>Day 83</h2>
 			<p>
-				More Rust puzzles and reading.
+				More Rust puzzles, I downloaded a game last night which inadvertantly uses Python (which I
+				decided to take a break from the other day to not cause language confusion). It's ok, I'm
+				just at the start where it's simple and pleasant{" "}
+				<a href='https://store.steampowered.com/app/2060160/The_Farmer_Was_Replaced/'>
+					The Farmer Was Replaced
+				</a>
+				, I'm hoping it will help with general coding.
 			</p>
-				<h2>Day 83</h2>
+			<h2>Day 84</h2>
 			<p>
-				More Rust puzzles, I downloaded a game last night which inadvertantly uses Python (which I decided to take a break from the other day to not cause language confusion). It's ok, I'm just at the start where it's simple and pleasant <a href="https://store.steampowered.com/app/2060160/The_Farmer_Was_Replaced/">The Farmer Was Replaced</a>, I'm hoping it will help with general coding.
+				More Rust puzzles, I learnt .dedup() today, a google search for Rust version of JavaScript's
+				set brought back .unique() which I couldn't make work but dedup was perfect.
 			</p>
-				<h2>Day 84</h2>
+			<h2>Day 85</h2>
 			<p>
-				More Rust puzzles, I learnt .dedup() today, a google search for Rust version of JavaScript's set brought back .unique() which I couldn't make work but dedup was perfect.
+				More Rust Codewars, I've gone up a level and doing ok, I still need to make myself some kind
+				of reference sheet, there's no go-to place to find out info on methods and see examples.
 			</p>
-						<h2>Day 85</h2>
-			<p>
-				More Rust Codewars, I've gone up a level and doing ok, I still need to make myself some kind of reference sheet, there's no go-to place to find out info on methods and see examples.  
-			</p>
-							<h2>Day 86</h2>
-			<p>
-				Bit more Rust Codewars and reading up on all string methods. 
-			</p>
-			
+			<h2>Day 86</h2>
+			<p>Bit more Rust Codewars and reading up on all string methods.</p>
+			<h2>Day 87</h2>
+			<p>Rust Codewars and reading.</p>
 		</div>
 	)
 }
