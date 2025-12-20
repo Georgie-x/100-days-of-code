@@ -439,6 +439,8 @@ function App() {
 			<p>Bit more Rust Codewars and reading up on all string methods.</p>
 			<h2>Day 87</h2>
 			<p>Rust Codewars and reading.</p>
+				<h2>Day 88</h2>
+			<p>Started Figma, I was taught coding using Excalidraw which I love but I know everyone uses Figma, I think it's overly bloaty, but I learned I just need the Figma design bit. I've created an android frame and I'm trying to recreate the timer screen on my mobile phone.</p>
 		</div>
 	)
 }
