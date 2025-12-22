@@ -449,6 +449,10 @@ function App() {
 			<p>
 				Did a little more Figma then turned my attention to my portfolio page, the images on it are all massive so I need to squash them down and make all my history up-to-date.
 			</p>
+			<h2>Day 90</h2>
+			<p>
+				Played The Farmer Has Been Replaced, it's not exactly python because it uses == but it's fairly similar.
+			</p>
 		</div>
 	)
 }
