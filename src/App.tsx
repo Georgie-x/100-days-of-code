@@ -453,6 +453,10 @@ function App() {
 			<p>
 				Played The Farmer Has Been Replaced, it's not exactly python because it uses == but it's fairly similar.
 			</p>
+			<h2>Day 91</h2>
+			<p>
+				Reading on Python, Rust and JS differences and looking into using google sheets to help keep notes.
+			</p>
 		</div>
 	)
 }
