@@ -457,6 +457,10 @@ function App() {
 			<p>
 				Reading on Python, Rust and JS differences and looking into using google sheets to help keep notes.
 			</p>
+				<h2>Day 92</h2>
+			<p>
+				I had a few days off for Christmas I will add them on at the end, did some Rust kata with Kieron doing JavaScript version.
+			</p>
 		</div>
 	)
 }
