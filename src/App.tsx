@@ -447,20 +447,26 @@ function App() {
 			</p>
 			<h2>Day 89</h2>
 			<p>
-				Did a little more Figma then turned my attention to my portfolio page, the images on it are all massive so I need to squash them down and make all my history up-to-date.
+				Did a little more Figma then turned my attention to my portfolio page, the images on it are
+				all massive so I need to squash them down and make all my history up-to-date.
 			</p>
 			<h2>Day 90</h2>
 			<p>
-				Played The Farmer Has Been Replaced, it's not exactly python because it uses == but it's fairly similar.
+				Played The Farmer Has Been Replaced, it's not exactly python because it uses == but it's
+				fairly similar.
 			</p>
 			<h2>Day 91</h2>
 			<p>
-				Reading on Python, Rust and JS differences and looking into using google sheets to help keep notes.
+				Reading on Python, Rust and JS differences and looking into using google sheets to help keep
+				notes.
 			</p>
-				<h2>Day 92</h2>
+			<h2>Day 92</h2>
 			<p>
-				I had a few days off for Christmas I will add them on at the end, did some Rust kata with Kieron doing JavaScript version.
+				I had a few days off for Christmas I will add them on at the end, did some Rust kata with
+				Kieron doing JavaScript version.
 			</p>
+			<h2>Day 93</h2>
+			<p>More JS and Rust puzzling.</p>
 		</div>
 	)
 }
