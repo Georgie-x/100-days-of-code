@@ -471,6 +471,8 @@ function App() {
 			<p>Comparing methods of JS and Rust.</p>
 			<h2>Day 95</h2>
 			<p>Rust Codewars</p>
+			<h2>Day 96</h2>
+			<p>Rust Codewars</p>
 		</div>
 	)
 }
