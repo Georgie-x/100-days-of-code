@@ -475,6 +475,8 @@ function App() {
 			<p>Rust Codewars</p>
 			<h2>Day 97</h2>
 			<p>Planning a pair project with Kieron, we want to make a game, probably puzzle and potentially just text-based.</p>
+			<h2>Day 98</h2>
+			<p>Rust Codewars</p>
 		</div>
 	)
 }
