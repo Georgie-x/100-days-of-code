@@ -479,6 +479,8 @@ function App() {
 			<p>Rust Codewars</p>
 			<h2>Day 99</h2>
 			<p>More project planning with Kieron. We have a basic game of a robot trying to repair himself to escape a facility, swapping chips and learning new skills. The actions and buttons will initially be unknown and he has to reactivate his sensors and powers. We think it'll take forever even to do a small version, so we will concentrate on what he might have to do to escape initial room.</p>
+			<h2>Day 100</h2>
+			<p>I've just rembered I zero-indexed my 100 days of code so this is a bonus day!! Just did more Rust.</p>
 		</div>
 	)
 }
